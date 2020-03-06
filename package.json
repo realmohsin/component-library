@@ -1,8 +1,8 @@
 {
-  "name": "spa-template",
-  "version": "3.0.0",
+  "name": "component-library",
+  "version": "1.0.0",
   "author": "Real Mohsin",
-  "description": "Template for React Single Page Applications",
+  "description": "Library of reusable React components (and hooks).",
   "scripts": {
     "start": "node server",
     "develop": "webpack-dev-server --config webpack.dev.js --open",

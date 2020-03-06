@@ -14,8 +14,8 @@ const colors = {
 }
 
 const fontFamilies = {
-  titleFont: '',
-  textFont: ''
+  titleFont: 'Shadows Into Light, cursive',
+  textFont: 'Lato, sans-serif'
 }
 
 const breakpoints = {

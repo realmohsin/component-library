@@ -9,8 +9,8 @@ class App extends React.Component {
       <>
         <Global styles={globalStyles} />
         <Switch>
-          <Route exact path='/' render={() => <h2>Home Page</h2>} />
-          <Route path='*' render={() => <h2>Page Not Found</h2>} />
+          <Route exact path='/' render={() => <h1>Component Library</h1>} />
+          <Route path='*' render={() => <h1>Page Not Found</h1>} />
         </Switch>
       </>
     )

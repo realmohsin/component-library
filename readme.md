@@ -1,18 +1,18 @@
 <div align="center">
-  <img alt="Logo" src="https://image.flaticon.com/icons/svg/747/747843.svg" width="50" />
+  <img alt="Logo" src="https://image.flaticon.com/icons/svg/2285/2285801.svg" width="50" />
 </div>
 <h1 align="center">
-  SPA Template
+  Component Library
 </h1>
 
-A boilerplate for React Single Page Applications.
+A library of reusable React components (and hooks).
 <br></br>
 
 ## Table of Contents
 
 - [Installation](#installation)
-- [What's Inside?](#whatsInside)
-- [Features](#features)
+  <!-- - [What's Inside?](#whatsInside)
+- [Features](#features) -->
   <br></br>
 
 ## Installation <a name="installation"></a>
@@ -29,7 +29,7 @@ npm i
 npm run develop
 ```
 
-## What's Inside? <a name="whatsInside"></a>
+<!-- ## What's Inside? <a name="whatsInside"></a>
 
 Notable Files And Folders
 
@@ -78,4 +78,4 @@ Notable Files And Folders
 - Optimized Polyfill Footprints
 - Optional Redux Store
 - @emotion Setup (CSS-in-JS)
-  <br></br>
+  <br></br> -->
