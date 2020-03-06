@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://image.flaticon.com/icons/svg/2285/2285801.svg" width="50" />
+  <img alt="Logo" src="https://image.flaticon.com/icons/svg/167/167708.svg" width="50" />
 </div>
 <h1 align="center">
   Component Library
