@@ -11,6 +11,7 @@ const presets = [
 ]
 
 const plugins = [
+  'emotion',
   '@babel/plugin-syntax-dynamic-import',
   '@babel/plugin-proposal-class-properties',
   '@babel/plugin-transform-runtime'

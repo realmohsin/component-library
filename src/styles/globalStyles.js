@@ -1,7 +1,6 @@
 import { css } from '@emotion/core'
-import { colors, fontFamilies, breakpoints } from './variables'
 
-const globalStyles = css`
+const globalStyles = ({ colors, fontFamilies, breakpoints }) => css`
   *,
   *:before,
   *:after {
